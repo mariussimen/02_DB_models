@@ -1,5 +1,6 @@
 -- Vorbereitungen
 USE design;
+DROP TABLE IF EXISTS purchases;
 DROP TABLE IF EXISTS servants;
 DROP TABLE IF EXISTS cats;
 
