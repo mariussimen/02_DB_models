@@ -202,15 +202,15 @@
           "C7SfS78Ew1Gj2cuoAGU9H"
         ],
         "ui": {
-          "x": 402,
-          "y": 54,
+          "x": 556,
+          "y": 47,
           "zIndex": 4,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1724319743052,
+          "updateAt": 1724404876541,
           "createAt": 1724317846685
         }
       },
@@ -227,15 +227,15 @@
           "BSC80kn8WYL_y9Vps6eKx"
         ],
         "ui": {
-          "x": 236,
-          "y": 257,
+          "x": 290,
+          "y": 335,
           "zIndex": 84,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1724319921696,
+          "updateAt": 1724404874694,
           "createAt": 1724319748235
         }
       }
@@ -834,8 +834,8 @@
           "columnIds": [
             "IgKcp1maAokqkFs5dKCKa"
           ],
-          "x": 236,
-          "y": 309,
+          "x": 290,
+          "y": 387,
           "direction": 1
         },
         "meta": {
@@ -853,8 +853,8 @@
           "columnIds": [
             "DNWbJqFnsgUiBWwVYKaze"
           ],
-          "x": 559.5,
-          "y": 182,
+          "x": 713.5,
+          "y": 175,
           "direction": 8
         },
         "end": {
@@ -862,8 +862,8 @@
           "columnIds": [
             "BSC80kn8WYL_y9Vps6eKx"
           ],
-          "x": 522,
-          "y": 309,
+          "x": 576,
+          "y": 387,
           "direction": 2
         },
         "meta": {
@@ -892,15 +892,15 @@
         "id": "aklGdG4fVr5eJqvlIzYHa",
         "value": "Mastertabelle 1",
         "ui": {
-          "x": 19,
-          "y": 200,
+          "x": 32,
+          "y": 325,
           "zIndex": 94,
           "width": 116,
           "height": 100,
           "color": ""
         },
         "meta": {
-          "updateAt": 1724319786478,
+          "updateAt": 1724404880076,
           "createAt": 1724319779868
         }
       },
@@ -908,15 +908,15 @@
         "id": "xU-VtCgDVVGev7NPiIBT0",
         "value": "Mastertabelle 2",
         "ui": {
-          "x": 583,
-          "y": 191,
+          "x": 733,
+          "y": 288,
           "zIndex": 100,
           "width": 116,
           "height": 100,
           "color": ""
         },
         "meta": {
-          "updateAt": 1724319804800,
+          "updateAt": 1724404872928,
           "createAt": 1724319792202
         }
       },
@@ -924,15 +924,15 @@
         "id": "lksSqs-MQNgo2auMyvHwl",
         "value": "Verbindungstabelle",
         "ui": {
-          "x": 311,
-          "y": 373,
+          "x": 373,
+          "y": 497,
           "zIndex": 106,
           "width": 116,
           "height": 100,
           "color": ""
         },
         "meta": {
-          "updateAt": 1724319929450,
+          "updateAt": 1724404872928,
           "createAt": 1724319808642
         }
       }
